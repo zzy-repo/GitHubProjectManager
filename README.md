@@ -2,6 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/73d47c10-59dd-41a1-b294-9c2055df1776)
 
+## 下载
+
+[链接🔗](https://github.com/zzy-repo/GitHubProjectManager/releases/tag/main)
+
 ## 简介 📝
 `GitHubProjectManager` 是一个基于 PyQt5 的桌面应用程序，允许用户通过提供 GitHub 个人访问 Token 来获取其所有仓库的信息，并能选择性地删除仓库。
 
